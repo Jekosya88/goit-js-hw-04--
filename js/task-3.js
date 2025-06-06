@@ -4,7 +4,7 @@ const profile = {
  
 
 
-changeUserName (newName) {
+changeUsername (newName) {
     this.username = newName;
 },
 
